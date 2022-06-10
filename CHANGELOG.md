@@ -1,7 +1,27 @@
 # Changelog
 
 
-## 2.0.6 - 2022-05-24
+## 3.0.1 - 2022-06-02
+
+### Added
+
+- Fixed analysis warnings
+
+## 3.0.0 - 2022-06-02
+
+### Added
+
+- Support for flutter 3
+- Basic form widgets
+
+## 2.1.1 - 2022-06-02
+
+### Fixed
+
+- Fallback to flutter 2.* because of version issues
+- Next release will support flutter 3
+
+## 2.1.0 - 2022-05-30
 
 ### Fixed
 
